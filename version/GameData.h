@@ -2,7 +2,7 @@
 class GameData
 {
 	public:
-		bool	InfAmmo = false;
+		bool	InfAmmo = true;
 		bool	InfAmmoLegit = false;
 		bool	InfGrenades = false;
 		bool	InfGrenadesLegit = false;
